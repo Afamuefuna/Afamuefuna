@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Afamuefuna
-- 👀 I’m interested in Game development
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on Game Projects
-- 📫 How to reach me https://abugulivinusbro.wixsite.com/simon/
+<h2>Hello there</h2>
+Hello I'm Simon, I love playing computer games alot and learning new things especially tech related stuff, so you will find me mostly talking about Tech and computer games.
 
-<!---
-Afamuefuna/Afamuefuna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm mostly interested in Game development and XR, generally I love anything Unity related.
+
+I'm currently Freelancing, working on contract and learning more, I'm also currently available to collaborate or work on Projects.
+
+Here's my portfolio https://abugulivinusbro.wixsite.com/simon/, you can check out my projects or reach out to me here. Thank you!
