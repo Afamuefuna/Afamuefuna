@@ -5,4 +5,4 @@ I'm mostly interested in Game development and XR, generally I love anything Unit
 
 I'm currently Freelancing, working on contract and learning more, I'm also currently available to collaborate or work on Projects.
 
-Here's my portfolio https://abugulivinusbro.wixsite.com/simon/, you can check out my projects or reach out to me here. Thank you!
+Here's my portfolio https://afamuefuna.github.io/Portfolio/, you can check out my projects or reach out to me here. Thank you!
